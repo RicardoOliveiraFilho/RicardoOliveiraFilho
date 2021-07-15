@@ -16,8 +16,8 @@ Se curtir a ideia de trocar conhecimento, cola aqui nos meus repositórios, aces
 
 <table>
    <tr>
-     <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoOliveiraFilho&show_icons=true&theme=tokyonight" /></td>
-     <td><img width="410px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOliveiraFilho&theme=tokyonight&layout=compact" /></td>
+     <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoOliveiraFilho&show_icons=true" /></td>
+     <td><img width="410px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOliveiraFilho&layout=compact" /></td>
    </tr> 
 </table>
 
@@ -27,19 +27,19 @@ Se curtir a ideia de trocar conhecimento, cola aqui nos meus repositórios, aces
   <tr>
     <td>
       <a href="https://github.com/RicardoOliveiraFilho/Github-Explorer.git">
-        <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=Github-Explorer&theme=tokyonight" />
+        <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=Github-Explorer" />
       </a>
     </td>
     <td>
       <a href="https://github.com/RicardoOliveiraFilho/NLW06-letmeask.git">
-        <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=NLW06-letmeask&theme=tokyonight" />
+        <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=NLW06-letmeask" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/RicardoOliveiraFilho/NLW06-valoriza.git">
-        <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=NLW06-valoriza&theme=tokyonight" />
+        <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=NLW06-valoriza" />
       </a>
     </td>
   </tr>
