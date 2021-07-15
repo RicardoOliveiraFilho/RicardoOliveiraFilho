@@ -1,6 +1,6 @@
 <img alt="banner" src="./assets/Ricardo Oliveira.gif">
 
-<a style="text-align: center;" href="https://www.linkedin.com/in/ricardo-oliveira-1307/"><img src="./assets/linkedin.png" width=35 height=35/></a>
+<a style="text-align: center;" href="https://www.linkedin.com/in/ricardo-oliveira-1307/" target="_blank"><img src="./assets/linkedin.png" width=35 height=35/></a>
 
 Olá, sou o José Ricardo! Tudo bem?
 Gosto muito de programação! Principalmente das tecnologias ReactJS, NodeJS e NextJS!!! Sempre que possível procuro me aprofundar cada vez mais nelas para criar aplicações cada vez mais arrojadas e belas!
