@@ -39,12 +39,17 @@ Se curtir a ideia de trocar conhecimento, cola aqui nos meus repositórios, aces
       </a>
     </td>
     <td>
-      <a href="https://github.com/RicardoOliveiraFilho/NLW06-letmeask.git">
-        <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=NLW06-letmeask" />
+      <a href="https://github.com/RicardoOliveiraFilho/reactivities-list.git">
+        <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=reactivities-list" />
       </a>
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="https://github.com/RicardoOliveiraFilho/NLW06-letmeask.git">
+        <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=NLW06-letmeask" />
+     </a> 
+    </td>
     <td>
       <a href="https://github.com/RicardoOliveiraFilho/NLW06-valoriza.git">
         <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=NLW06-valoriza" />
