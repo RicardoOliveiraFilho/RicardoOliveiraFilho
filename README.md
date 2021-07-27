@@ -34,33 +34,38 @@ Se curtir a ideia de trocar conhecimento, cola aqui nos meus repositórios, aces
 <table>
   <tr>
     <td>
+      <a href="https://github.com/RicardoOliveiraFilho/dtmoney">
+        <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=dtmoney" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/RicardoOliveiraFilho/Github-Explorer.git">
         <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=Github-Explorer" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/RicardoOliveiraFilho/reactivities-list.git">
         <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=reactivities-list" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
        <a href="https://github.com/RicardoOliveiraFilho/watch-me">
         <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=watch-me" />
      </a>
     </td>
-    <td>
+  </tr>
+  <tr>
+   <td>
       <a href="https://github.com/RicardoOliveiraFilho/NLW06-letmeask.git">
         <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=NLW06-letmeask" />
      </a>
     </td>
-  </tr>
-  <tr>
    <td>
       <a href="https://github.com/RicardoOliveiraFilho/NLW06-valoriza.git">
         <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=NLW06-valoriza" />
       </a>
-   <td> 
+   </td>
   </tr>
 </table>
