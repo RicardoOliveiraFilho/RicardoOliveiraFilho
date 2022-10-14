@@ -34,32 +34,32 @@ Se curtir a ideia de trocar conhecimento, cola aqui nos meus repositórios, aces
 <table>
   <tr>
     <td>
-      <a href="https://github.com/RicardoOliveiraFilho/hook-carrinho-compras">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=hook-carrinho-compras" />
+      <a href="https://github.com/RicardoOliveiraFilho/todo-app">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=todo-app" />
       </a>
     </td>
      <td>
-      <a href="https://github.com/RicardoOliveiraFilho/dtmoney">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=dtmoney" />
+      <a href="https://github.com/RicardoOliveiraFilho/ignite-timer">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=ignite-timer" />
       </a>
     </td>
   </tr>
   <tr>
      <td>
-      <a href="https://github.com/RicardoOliveiraFilho/Github-Explorer.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=Github-Explorer" />
+      <a href="https://github.com/RicardoOliveiraFilho/coffee-delivery">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=coffee-delivery" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/RicardoOliveiraFilho/reactivities-list.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=reactivities-list" />
+      <a href="https://github.com/RicardoOliveiraFilho/dt-money_v2">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=dt-money_v2" />
       </a>
     </td>
   </tr>
   <tr>
    <td>
-       <a href="https://github.com/RicardoOliveiraFilho/watch-me">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=watch-me" />
+       <a href="https://github.com/RicardoOliveiraFilho/github-blog">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=github-blog" />
      </a>
     </td>
    <td>
