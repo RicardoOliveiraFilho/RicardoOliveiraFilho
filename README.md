@@ -63,8 +63,8 @@ Se curtir a ideia de trocar conhecimento, cola aqui nos meus repositórios, aces
      </a>
     </td>
    <td>
-      <a href="https://github.com/RicardoOliveiraFilho/NLW06-letmeask.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=NLW06-letmeask" />
+      <a href="https://github.com/RicardoOliveiraFilho/ignite-shop-2.0">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoOliveiraFilho&show_owner=true&repo=ignite-shop-2.0" />
      </a>
     </td>
   </tr>
